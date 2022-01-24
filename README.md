@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AloyFernz
 - 👀 I’m interested in EVs and Renewable Energy
-- 🌱 I’m currently learning Electrical and Electronics Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently majoring Electrical and Electronics Engineering
 
 <!---
 AloyFernz/AloyFernz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
